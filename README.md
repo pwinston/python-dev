@@ -1,3 +1,6 @@
 # python-dev
-Ubuntu 20.04 docker image for general Python development.
 
+Docker image for general Python development.
+
+| Operating System | Ubuntu 20.04 LTS (Focal Fossa) |
+| Python Version | Python 3.8.2 |
