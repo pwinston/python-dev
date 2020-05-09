@@ -1,2 +1,3 @@
 # python-dev
-Generic python development dockerfile
+Ubuntu 20.04 docker image for general Python development.
+
